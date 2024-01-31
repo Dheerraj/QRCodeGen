@@ -43,4 +43,10 @@ h2
     background-color: rgb(26, 238, 167);
     color: white;
     border-radius: 10px;
+    margin-bottom: 10px;
+}
+#qr-image
+{
+    display: block;
+    margin: 0 auto;
 }
